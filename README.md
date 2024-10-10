@@ -1,0 +1,1 @@
+This project uses Machine Learning and EDA Analysis to find if there exists a correlation between COVID cases and Crypto prices.
